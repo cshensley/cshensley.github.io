@@ -11919,6 +11919,15 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #434E5E;
 }
 
+.resume-award-date {
+    color: #aab4c3;
+    font-size: 0.875rem;
+}
+
+.resume-award-source {
+    font-size: 0.875rem;
+}
+
 .resume-award-desc {
   font-size: 0.875rem;
 }
